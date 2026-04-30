@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <!-- ここにサイトのトップページのURLを入れます -->
+    <loc>https://tori-no-su.com/</loc>
+    <!-- 最終更新日（YYYY-MM-DD形式） -->
+    <lastmod>2026-04-30</lastmod>
+    <!-- 更新頻度（1ページ構成でたまに修正する程度なら monthly や weekly が無難です） -->
+    <changefreq>monthly</changefreq>
+    <!-- 優先度（トップページなので最高値の 1.0） -->
+    <priority>1.0</priority>
+  </url>
+</urlset>
